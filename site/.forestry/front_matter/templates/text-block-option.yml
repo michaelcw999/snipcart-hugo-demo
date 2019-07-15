@@ -6,3 +6,5 @@ fields:
   name: essential
   label: Essential
   template: base-product-option
+pages:
+- site/content/products/ViaValet.md
